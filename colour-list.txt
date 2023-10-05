@@ -1,0 +1,5 @@
+AIRBNB COLOUR:
+foggy: #ced1cb
+HOF:#565b5c
+RAUSCH: #ff5a60
+KAZAN: #007b88
